@@ -168,3 +168,64 @@ d20 | ANTÉCÉDENT : ENSEMBLE D'ÉQUIPEMENT DE DÉPART
 18 | Travailleur social : Ordinateur portable avec sac, badge d'identification, couteau de poche (d6), carnet et stylo.
 19 | Enseignant : Tasse à café, ciseaux, grand sac.
 20 | Entrepreneur : Ceinture à outils bien garnie, couteau utilitaire (d6), lampe de poche robuste, perceuse.
+
+# DÉTAILS OPTIONNELS POUR LES ENQUÊTEURS
+
+Ces tables peuvent être utilisées pour étoffer les détails de vos enquêteurs.
+
+## ESTHÉTIQUE
+
+d20 | ESTHÉTIQUE
+----|----------------------------------
+01  | Toujours professionnel.
+02  | Streetwear
+03  | T-shirts de groupe
+04  | Peignez-le en noir.
+05  | Athleisure
+06  | Propre et repassé
+07  | Confort décontracté
+08  | Vintage authentique
+09  | À la mode
+10  | Uniforme de travail
+11  | Sweat à capuche oversized
+12  | Motif floral insulaire
+13  | Tout est sur mesure
+14  | Fonction sur la mode
+15  | Poches cargo
+16  | Jeans et t-shirts
+17  | Coincé en 2009
+18  | Grunge minimaliste
+19  | Années 2000 (Y2K)
+20  | Denim sur denim
+
+## LE GOUFFRE VOUS REGARDE EN RETOUR
+
+### Quelle a été votre première rencontre avec l'inconnu ?
+
+d10 | RENCONTRE AVEC L'INCONNU
+----|---------------------------------------------------
+1   | Vous avez perdu un être cher dans des circonstances mystérieuses.
+2   | Les preuves en ligne sont trop nombreuses pour être ignorées.
+3   | Vous avez vu quelque chose dans l'obscurité.
+4   | Vous avez survécu à une attaque que vous ne pouvez pas expliquer.
+5   | Quelque chose se cache dans vos rêves.
+6   | Quelqu'un de proche vous attire ou vous repousse.
+7   | Activité de culte (peut-être ont-ils recruté quelqu'un d'important).
+8   | Vous pourriez être membre d'une société secrète.
+9   | Vous avez lu quelque chose qui n'était pas destiné aux esprits mortels.
+10  | Pas encore, c'est pour la première session !
+
+### Quel prisme utilisent-ils pour interpréter le monde et les guider vers l'action ?
+
+d10 | IDÉOLOGIE ET CROYANCES
+----|---------------------------------------------------
+1   | Tout a une explication rationnelle enracinée dans la science.
+2   | Les individus peuvent faire la différence.
+3   | Vous adhérez à une idéologie politique spécifique.
+4   | Une religion spécifique vous guide.
+5   | La moralité est noire ou blanche.
+6   | Vous croyez au destin et il impacte directement votre vie.
+7   | Croyance en des pouvoirs supérieurs tels que l'astrologie, la spiritualité, etc.
+8   | Le libre arbitre est la seule vérité.
+9   | Il y a des vérités profondes que les autres ignorent. Les réponses sont là-bas.
+10  | Vous croyez au pouvoir de la communauté.
