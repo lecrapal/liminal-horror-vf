@@ -137,3 +137,34 @@ Lancez 1d6 pour déterminer la Protection des Points de Vie (PV) de départ. Cel
 3. ÉQUIPEMENT DE DÉPART
 
 Chaque enquêteur commence avec un smartphone (appareil photo, lampe de poche, etc.) et 1d6 x 100 en liquide. Un équipement de départ supplémentaire est fourni via les Antécédents ou les Archétypes. Beaucoup de ces objets peuvent être utilisés comme arme si nécessaire, pour d6 dégâts. Les joueurs peuvent également utiliser leur argent pour acheter des objets dans la Liste d'Équipement (p. 12).
+
+# ANTÉCÉDENTS
+
+Lancez 1d20 ou choisissez un antécédent (ou un archétype si vous utilisez un module officiel).
+
+Les antécédents sont le point de départ par défaut pour les nouveaux enquêteurs. Ils représentent une profession de base, une compétence ou un point d'intérêt pour fournir un contexte de départ aux enquêteurs, et incluent plusieurs objets associés. Ils constituent une base à partir de laquelle construire en utilisant les autres éléments de la création d'enquêteur.
+
+▶	**ARCHÉTYPES** : Ce sont des antécédents développés que l'on peut trouver dans The Bureau, The Bloom, et l'édition Deluxe.
+
+d20 | ANTÉCÉDENT : ENSEMBLE D'ÉQUIPEMENT DE DÉPART
+----|-------------------------------------------------
+1  | Ouvrier d'usine : Tablier industriel (+1 Armure), harnais de sécurité, thermos.
+2  | Conducteur de bus : Boîte à lunch, carte routière complète, taser (d6, non létal).
+3  | Mécanicien : Clé à molette ajustable (d6), boîte à outils portable, ruban électrique, nettoyant pour freins.
+4  | Éboueur : Gants résistants aux coupures (+1 Armure), gilet haute visibilité, rallonge de préhension, lunettes de sécurité.
+5  | Technicien médical d'urgence (TMU) : Trousse de premiers soins, ciseaux à trauma, stéthoscope, sac WAG.
+6  | Employé de magasin : Cutter (d6), talkie-walkies, badge nominatif, chaussures incroyablement confortables.
+7  | Artiste : Outil artistique de choix, carnet de croquis, appareil photo, petite mais passionnée base de fans.
+8  | Athlète : Équipement du sport de choix, bandeau, boisson énergétique en poudre.
+9  | Skateur : Planche à roulettes, caméra vidéo, coupe-boulons.
+10 | Guerrier du clavier : Ordinateur portable avec sac, suivi en ligne, faux certificats, boissons énergétiques.
+11 | Pompier volontaire : Échelle pliable (encombrant), hache (d6), extincteur, lampe de poche.
+12 | Coursier à vélo : Vélo, casque (+1 Armure), sac de messager, paquet non ouvert, multitool.
+13 | Barman : Couteau de bar (d6), bouteille de liqueur, cigarettes, fausses cartes d'identité confisquées.
+14 | Thérapeute : Enregistreur de mémo, carnet et stylo, cartes de visite, petit revolver (d6).
+15 | Assistant administratif : Contacts étendus, carte de crédit d'entreprise, mallette extensible, taser (d6 DEX).
+16 | Acteur : Dossier d'audition, chargeur portable, fournitures cosmétiques de rechange, tenue de rechange.
+17 | Ingénieur : Ordinateur portable avec logiciel de conception, carnet de terrain étanche, routeur sans fil, EPI rarement utilisé.
+18 | Travailleur social : Ordinateur portable avec sac, badge d'identification, couteau de poche (d6), carnet et stylo.
+19 | Enseignant : Tasse à café, ciseaux, grand sac.
+20 | Entrepreneur : Ceinture à outils bien garnie, couteau utilitaire (d6), lampe de poche robuste, perceuse.
