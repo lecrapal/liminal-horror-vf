@@ -920,7 +920,7 @@ Un enquêteur peut utiliser le pouvoir d'un artefact résonant dans le cadre de 
 
 ## Hommes-grenouilles
 
-**FOR** : 13, **DEX** : 12, **CTRL** : 10, **PV** : 4
+**FOR** : 13, **DEX** : 12, **CTRL** : 10, **PP** : 4
 
 - Griffes (d6), Langue (d8)
 - Grenouilles humanoïdes sapientes. Grandes, musclées. Certaines se cachent en tant qu'hommes.
@@ -929,7 +929,7 @@ Un enquêteur peut utiliser le pouvoir d'un artefact résonant dans le cadre de 
 
 ## Mère
 
-**FOR** : 14, **DEX** : 8, **CTRL** : 14, **PV** : 14
+**FOR** : 14, **DEX** : 8, **CTRL** : 14, **PP** : 14
 
 - Griffes (d8), Baiser (d6 Stress)
 - Incroyablement grande, courbée, pâle.
@@ -938,7 +938,7 @@ Un enquêteur peut utiliser le pouvoir d'un artefact résonant dans le cadre de 
 
 ## Agent fédéral
 
-**FOR** : 14, **DEX** : 12, **CTRL** : 10, **PV** : 6, **ARMURE** : 1
+**FOR** : 14, **DEX** : 12, **CTRL** : 10, **PP** : 6, **ARMURE** : 1
 
 - Pistolet de service (d6)
 - Costume noir, lunettes noires.
@@ -947,7 +947,7 @@ Un enquêteur peut utiliser le pouvoir d'un artefact résonant dans le cadre de 
 
 ## Enfant des spores
 
-**FOR** : 12, **DEX** : 8, **CTRL** : 6, **PV** : 4
+**FOR** : 12, **DEX** : 8, **CTRL** : 6, **PP** : 4
 
 - Dague bénie par les spores (d6)
 - Hôte d'un champignon parasite qui a envahi le cerveau et les a connectés à la structure grandiose.
@@ -956,7 +956,7 @@ Un enquêteur peut utiliser le pouvoir d'un artefact résonant dans le cadre de 
 
 ## Agent du bureau
 
-**FOR** : 10, **DEX** : 14, **CTRL** : 14, **PV** : 8
+**FOR** : 10, **DEX** : 14, **CTRL** : 14, **PP** : 8
 
 - Arme Prototype Magitek (d6 explosion)
 - Malgré des apparences variées, ils ont toujours une allure professionnelle et un maintien impeccable.
@@ -965,7 +965,7 @@ Un enquêteur peut utiliser le pouvoir d'un artefact résonant dans le cadre de 
 
 ## Sorcière
 
-**FOR** : 8, **DEX** : 12, **CTRL** : 13, **PV** : 8, **ARMURE** : 2
+**FOR** : 8, **DEX** : 12, **CTRL** : 13, *PPPV** : 8, **ARMURE** : 2
 
 - Canne (d6), Magie du Chaos
 - Les sorcières peuvent ressembler à n'importe qui. Certaines ont été changées par leur proximité à l'étrange.
@@ -974,7 +974,7 @@ Un enquêteur peut utiliser le pouvoir d'un artefact résonant dans le cadre de 
 
 # Fantôme
 
-**FOR** : 10, **DEX** : 10, **CTRL** : 13, **PV** : 10, **ARMURE** : 3
+**FOR** : 10, **DEX** : 10, **CTRL** : 13, **PP** : 10, **ARMURE** : 3
 
 - Étreinte Spectrale (d6 stress)
 - Esprits incorporels incapables de partir après la mort.
@@ -983,7 +983,7 @@ Un enquêteur peut utiliser le pouvoir d'un artefact résonant dans le cadre de 
 
 # L'essaim
 
-**FOR** : 14, **DEX** : 10, **CTRL** : 10, **PV** : 10, **ARMURE** : 3
+**FOR** : 14, **DEX** : 10, **CTRL** : 10, **PP** : 10, **ARMURE** : 3
 
 - Cascade de Vermine (d6, explosion)
 - Était autrefois une personne normale, maintenant hôte d'une légion (choisissez des asticots/vers/rats/fourmis). À l'examen attentif, le spectateur peut voir des mouvements sous la peau.
@@ -992,323 +992,296 @@ Un enquêteur peut utiliser le pouvoir d'un artefact résonant dans le cadre de 
 
 # Forge-corps
 
-**FOR** : 16, **DEX** : 8, **CTRL** : 12, **PV** : 12, **ARMURE** : 2
+**FOR** : 16, **DEX** : 8, **CTRL** : 12, **PP** : 12, **ARMURE** : 2
 
 - Mains (d8 - d10)
 - Maître de la chair, son apparence change et se modifie. Souvent sous une forme massive, tout en muscles et en os aux proportions impossibles.
 - Pour créer de l'art. Pour perfectionner. Pour manipuler.
 - Dégâts Critiques : C'est un artiste, et le corps de la victime est son argile. Le Forge-Corps tord un membre de manière impossible.
 
-# CRÉER VOS PROPRES MONSTRES
+# Créer vos propres monstres
 
-## CRÉER DES MONSTRES
+## Création de monstres
 
 Utilisez le modèle suivant pour créer des PNJ et des monstres.
 
-▶ **Titre** (désigne le type de PNJ/monstre)  
-▶ **Nom du PNJ** (la plupart des choses ont un nom, bien que certains l'aient oublié et soient désormais uniquement définis par leur titre).  
-▶ **FOR** : X, **DEX** : X, **CTRL** : X  
-▶ **PV** : X, **ARMURE** : X  
-▶ **Attaque** (dX, objets spéciaux, qualités)  
-▶ **Description** (apparence ou comportement).  
-▶ **Motivation**, comportement, tactique ou particularité.  
-▶ **Effet spécial ou conséquence des Dégâts Critiques**.
+- **Titre** (désigne le type de PNJ/monstre)
+- **Nom du PNJ** (la plupart des choses ont un nom, bien que certains l'aient oublié et soient désormais uniquement définis par leur titre).
+- **FOR** : X, **DEX** : X, **CTRL** : X
+- **PP** : X, **ARMURE** : X
+- **Attaque** (dX, objets spéciaux, propriétés)
+- **Description** (apparence ou comportement).
+- **Motivation**, comportement, tactique ou particularité.
+- **Effet spécial ou conséquence des dégâts critiques**.
 
-## PRINCIPES GÉNÉRAUX
+## Principes généraux
 
-▶ Les scores de capacité sont de 10, sauf indication contraire.  
-▶ Scores de Capacité : 3 est déficient, 6 est faible, 10 est moyen, 14 est remarquable, et 18 est légendaire.  
-▶ PV : 3 PV est moyen, 6 PV robuste, 10+ PV est une menace sérieuse.  
-▶ Les PV représentent la protection contre les coups, pas une mesure des points de vie. C'est une mesure de compétence, de chance, de volonté, de résilience.  
-▶ Saveur et style = mémorable.  
-▶ Utilisez d6 comme base pour les dégâts.  
-▶ Inclure des moyens de causer du stress rend le jeu plus étrange et augmente la chance de séquelles.  
-▶ Les déclencheurs de Dégâts Critiques augmentent la menace ou la bizarrerie.
+- Les caractéristiques sont à 10, sauf indication contraire.
+- Caractéristiques : 3 est déficient, 6 est faible, 10 est moyen, 14 est remarquable, et 18 est légendaire.
+- PP : 3 PP est moyen, 6 PP robuste, 10+ PP est une menace sérieuse.
+- Les PP représentent la protection contre les coups, pas une mesure des points de vie. C'est une mesure de compétence, de chance, de volonté, de résilience.
+- Le style et l'originalité rendent le monstre mémorable.
+- Utilisez d6 comme base pour les dégâts. 
+- Inclure des moyens d'infliger du stress rend le jeu plus étrange et augmente les chances de séquelles.
+- Les conséquences de dégâts critiques augmentent la menace ou l'étrangeté.
 
-## FICHE DE RÉFÉRENCE DES CRÉATURES
+## Aide-mémoire de création de créatures
 
-▶ Capable d'éviter d'être touché ? Donnez-lui des PV.  
-▶ Absorber des dégâts ? Donnez-lui de l'armure.  
-▶ Physiquement puissant ? Donnez-lui une FOR élevée ou des dés de dégâts plus grands.  
-▶ Rapide ? Donnez-lui une DEX élevée.  
-▶ Étrange ? Donnez-lui un CTRL élevé ou la capacité de causer des dégâts de stress.
+- **Esquive facile ?** Donnez-lui des PP.
+- **Absorbe les dégâts ?** Donnez-lui de l'ARMURE.
+- **Force physique ?** Donnez-lui une FOR élevée ou des dés de dégâts plus gros (d8, d10, etc.).
+- **Rapide ?** Donnez-lui une DEX élevée.
+- **Étrange ?** Donnez-lui un CON élevé ou la capacité d'infliger des points de stress.
 
-# PROCÉDURE VOIDCRAWL
+# Exploration des abîmes
 
-Un système au tour par tour pour les sessions de Liminal Horror qui crée une procédure pour explorer les espaces sombres et négligés où résident ceux qui sont touchés par l'abîme. Il utilise un dé de rencontre surchargé pour informer ce qui se passe ensuite et mettre l'accent sur la narration.
+Voici un système de tour par tour pour les parties de Liminal Horror qui offre une procédure d'exploration des espaces sombres et négligés où résident ceux touchés par l'abîme. Ce système utilise un dé de rencontre unique pour informer la suite des événements et mettre l'accent sur la narration.
 
-Pour la préparation, le coordinateur crée une table personnalisée pour chaque effet.
+Le coordinateur crée un tableau personnalisé pour chaque effet possible.
 
-## LE TOUR D'EXPLORATION
+## Un tour d'exploration des abîmes
 
 Le temps est divisé en tours lors de l'exploration des espaces (espaces liminaires, catacombes, environnements déformés par l'abîme, tunnels, ruines, villes vides, entrepôts, mégastructures non euclidiennes, arrière-salles, etc.) contenant des pièces/sections.
 
-Pendant un tour, le groupe peut effectuer une action significative :
+Pendant un tour, le groupe peut effectuer une action importante :
 
-▶ se déplacer entre les pièces  
-▶ rechercher/explorer un espace  
-▶ forcer une porte  
-▶ tenter de reprendre leur souffle pour regagner des PV (sauvegarde de CTRL pour réussir)
+- se déplacer entre les pièces
+- fouiller/explorer un espace
+- forcer une porte
+- tenter de reprendre son souffle pour récupérer des PV (jet de CON pour réussir)
 
-À chaque tour d'exploration, après que le groupe ait déclaré son action, le coordinateur lance le dé Voidcrawl (d20).
+À chaque tour d'exploration, après que le groupe ait déclaré son action, le coordinateur lance le dé du Vide (d20).
 
-**Risque vs Récompense** : Avancer signifie perdre les opportunités de se reposer/reprendre son souffle, ce qui rend la récupération des PV risquée. Cela signifie que le groupe doit choisir entre regagner des PV ou avancer en temps opportun, car chaque repos nécessite un jet de Voidcrawl par la suite.
+**Risque vs Récompense** : Avancer signifie perdre les occasions de se reposer/reprendre son souffle, ce qui rend la récupération des PP risquée. Le groupe doit donc choisir entre récupérer des PV ou avancer rapidement, car chaque repos nécessite un jet de Vide par la suite.
 
-## TABLE DU DÉ VOIDCRAWL (d20)
+## Table du dé du vide (d20)
 
-| JET   | EFFET           | DESCRIPTION                                                  |
+| Dé    | Effet           | Description                                                  |
 | ----- | --------------- | ------------------------------------------------------------ |
-| 1     | MAUVAIS PRÉSAGE | Lancez pour déterminer un enquêteur aléatoire. Lancez sur une table de séquelles. Présentez un présage ou un signe relatif à cette séquelle, et il est maintenant destiné à être la prochaine séquelle qu'il obtient. |
-| 2-4   | RENCONTRE       | Le coordinateur lance sur une table de rencontres. S'il n'y a qu'un seul monstre dans l'emplacement, ils le rencontrent à la place. |
-| 5-7   | HORREUR         | Le groupe découvre quelque chose de terrifiant/horrifique. Chaque enquêteur subit 1+ de stress. |
-| 8-10  | REVERS          | Le groupe rencontre un contretemps (un danger physique, environnemental ou magique). Une option est d'instaurer une pénurie (équipement qui se casse, épuisement des fournitures). Concentrez-vous sur ce qui est le plus pertinent à ce moment-là. |
-| 11-13 | LOCALITÉ        | L'environnement change autour du groupe (alarme, chemin qui se ferme, matériau physique d'un espace qui se déplace, etc.). |
-| 14-16 | INDICE          | Présentez un indice, un avertissement ou une piste (ombres entourées de flammes bleues, trous de balles, traces de sang grésillantes). Les capacités et les motivations des monstres peuvent informer le choix. |
-| 17-19 | LIBRE           | Aucun effet supplémentaire pour ce tour. Les effets temporaires négatifs prennent fin. |
-| 20    | RÉGROUPEMENT    | Le groupe est actuellement en sécurité et peut prendre un moment pour reprendre son souffle (regagne des PV sans utiliser leur tour). |
+| 1     | Mauvais présage | Choisissez un enquêteur au hasard. Lancez sur une table de séquelles. Présentez un présage ou un signe lié à cette Séquelle, et il est maintenant destiné à être la prochaine Séquelle qu'ils obtiendront. |
+| 2-4   | Rencontre       | Le coordinateur lance sur une table de rencontre. S'il n'y a qu'un seul monstre dans le lieu, les enquêteurs le rencontrent à la place. |
+| 5-7   | Horreur         | Le groupe découvre quelque chose de terrifiant/horrifique. Chaque enquêteur subit 1+ de stress. |
+| 8-10  | Contretemps     | Le groupe rencontre un contretemps (un danger physique, environnemental ou magique). Une option est d'instaurer une pénurie (équipement qui se casse, épuisement des fournitures). Concentrez-vous sur ce qui est le plus pertinent à ce moment-là. |
+| 11-13 | Lieu            | L'environnement change autour des joueurs (une alarme se déclenche, un passage se ferme, la matière physique d'un espace se déplace, etc.). |
+| 14-16 | Indice          | Présentez un indice, un avertissement ou une piste (ombres entourées d'une lumière bleue, impacts de balle, marques de sang brûlant). Les capacités et les motivations des monstres peuvent informer le choix. |
+| 17-19 | Calme           | Aucun effet supplémentaire pour ce tour. Les effets temporaires négatifs prennent fin. |
+| 20    | Regroupement    | Le groupe est actuellement en sécurité et peut prendre un moment pour reprendre son souffle (regagne des PP sans utiliser leur tour). |
 
 
-# CADRE DE MYSTÈRE
+# Outils de narration
 
-## LIEU/EMPLACEMENT
+## Environnement / Lieu
 
-Les espaces dans lesquels ces histoires sont racontées sont extrêmement importants pour de nombreux types d'horreur. La cabane dans les bois, le centre commercial hors du temps et de l'espace, un hôpital sombre sont tous des lieux qui fonctionnent comme un autre enquêteur qui est tout aussi important que le grand méchant.
+Dans de nombreux types d'horreur, les lieux où se déroulent les histoires revêtent une importance capitale. La cabane isolée dans les bois, le centre commercial hors du temps et de l'espace, l'hôpital sombre... tous ces endroits sont tout aussi important que le grand méchant.
 
-Même les espaces apparemment banals sont importants pour l'horreur moderne, car ils sont instantanément compréhensibles pour les joueurs. En utilisant les schémas de ceux à la table, nous pouvons imaginer ces espaces avec des détails vifs. C'est alors que le coordinateur introduit l'étrange, le bizarre et l'horrifique, et que la juxtaposition frappe les joueurs/enquêteurs.
+Même les lieux apparemment banals sont importants pour l'horreur moderne, car ils sont immédiatement familiers aux joueurs. En s'appuyant sur les schémas mentaux des participants, on peut imaginer ces espaces avec des détails saisissants. C'est alors que le coordinateur introduit l'étrange, le bizarre et l'horrifiant, et que la juxtaposition frappe les joueurs/enquêteurs.
 
-## CADRE DE MYSTÈRE
+## Éléments clés
 
-### POINTS DE RÉFÉRENCE
+- **Points de référence** Créez une liste de films, de jeux, de bandes dessinées ou de romans qui vous aideront à définir le ton de l'histoire et à servir de référence visuelle pour le mystère.
+- **Concept** Rédigez un énoncé de concept clair et succinct. Si son sens est trop confus, cela signifie peut-être que vous devez modifier certaines autres variables du mystère.
 
-Créez une liste de films, jeux, bandes dessinées ou romans pour aider à ancrer le ton et servir de référence visuelle pour le mystère.
+- **Factions et leurs objectifs** Dressez la liste des factions initiales et de leurs objectifs. Utilisez des agendas pour définir les réactions des PNJ en jeu et en dehors du jeu.
 
-### CONCEPT
+- **Sablier de la mort**  Créez une séquence de base des événements qui se produiront si les enquêteurs n'interviennent pas. Les actions entreprises modifient la progression du sablier. Les modifications du sablier doivent tenir compte des objectifs des factions en jeu.
 
-Rédigez une déclaration de concept claire et concise. Si c'est trop confus, cela peut signifier que vous devez modifier certaines des autres variables du mystère.
+- **Accroches** Créez plusieurs points d'entrée qui peuvent être utilisés pour embarquer les joueurs dans le mystère.
 
-### FACTIONS ET LEURS OBJECTIFS
+- **Indices potentiels** : Dressez une liste non exhaustive d'indices potentiels que les enquêteurs peuvent découvrir. Lorsque vous réfléchissez au mystère, pensez à des indices tangibles que les enquêteurs peuvent trouver.
 
-Listez les factions initiales et leurs objectifs. Utilisez les agendas pour informer les réactions des PNJ dans et hors du jeu.
+- **PNJ** : Créez une liste des PNJ importants avec leurs fiches de caractéristiques. Utilisez le Bestiaire pour trouver des exemples de monstres ou créez-les en utilisant le Guide de Création de Monstres.
 
-### HORLOGE DU DESTIN (DOOM CLOCK)
+- **Lieux** : Décidez de quelques emplacements importants et rédigez-en des descriptions. Esquissez des plans approximatifs des lieux afin d'ancrer les enquêteurs pendant le jeu.
 
-Créez une séquence de base des événements qui se produisent si les enquêteurs n'interviennent pas. Les actions entreprises modifient la progression de l'horloge du destin. Les modifications de l'horloge du destin doivent prendre en compte les objectifs des factions en jeu.
+# Renforcer les thèmes et les genres 
 
-### HAMEÇONS
+En concevant des modules officiels pour Liminal Horror, j'ai constaté que la polyvalence du système central permet de prioriser ou d'adapter certains aspects afin de renforcer des préférences de genre spécifiques.
 
-Créez plusieurs points d'entrée qui peuvent être utilisés pour impliquer la table dans le mystère.
+## Création des enquêteurs
 
-### INDICES POTENTIELS
+La première étape que je recommande pour orienter votre module d'aventure vers un genre/thème spécifique est la personnalisation de la création des enquêteurs.
 
-Créez une liste non exhaustive d'indices potentiels que les enquêteurs peuvent découvrir. En pensant au mystère, réfléchissez à des indices tangibles que les enquêteurs peuvent trouver.
+L'adaptation la plus simple consiste à créer des historiques personnalisés, en proposant des questions aux enquêteurs et un équipement de départ qui correspondent spécifiquement à votre module. Cela peut contribuer à une immersion plus profonde de l'équipe de joueurs.
 
-### PNJ
+## Composition du Groupe
 
-Créez une liste de PNJ importants avec leurs blocs de statistiques. Utilisez le Bestiaire Paranatural (p. 24) pour quelques exemples de monstres ou créez-les en utilisant les directives de Création de Monstres (p. 25).
+Déterminer ce qui motive la formation du groupe est une autre variable qui peut être ajustée pour renforcer le thème, le ton et la configuration. Parfois, cela est implicite en fonction du cadre (le centre commercial a des clients ou des employés), ou cela peut être plus ouvert à l'interprétation (le Bureau a quelques questions qui peuvent être influencées par les expériences des personnages). Cependant, le hasard peut facilement jouer un rôle.
 
-### LIEUX
+## Questions de Groupe
 
-Décidez de quelques lieux importants et rédigez des descriptions pour eux. Esquissez quelques cartes des lieux pour ancrer les enquêteurs pendant le jeu.
+Un autre moyen d'adapter le système à votre module est de créer une situation unificatrice qui rassemble le groupe. Vous pouvez écrire une invite spécifique qui unifie les joueurs pour le scénario.
 
-# RENFORCER LES THÈMES/GENRES DANS L'HORREUR
+Par exemple, on pourrait imaginer que les enquêteurs animent ensemble une émission de radio ou un podcast sur la région. Ce cadre unifie le groupe dès le départ et permet d'établir un certain contexte et de fournir un équipement initial. Bien que cela ne soit pas nécessaire pour le déroulement des scénarios, proposer une option pour la composition du groupe peut être utile.
 
-En concevant des modules officiels pour Liminal Horror, j'ai constaté que la polyvalence du système de base permet de prioriser ou d'adapter certains aspects pour renforcer des désirs de genre spécifiques.
+## Connexions
 
-## GÉNÉRATION DES ENQUÊTEURS
+Demander aux joueurs de créer au moins un PNJ avec lequel ils ont un lien est un excellent moyen de les immerger davantage dans le décor.
 
-Adapter la génération des enquêteurs est le premier aspect que je recommande si vous visez un genre/thème spécifique dans votre module d'aventure.
+Les joueurs peuvent créer ou choisissent un PNJ avec lequel leur enquêteur a une connexion. Cela donne au coordinateur un fil conducteur immédiat à exploiter, ce qui renforce les enjeux et l'adhésion narrative des enquêteur s. (Spoiler : J'utilise souvent l'un de ces PNJ comme première victime, ce qui permet d'établir les enjeux immédiatement après que les choses tournent mal.)
 
-L'adaptation la plus simple consiste à créer des antécédents personnalisés, en créant des questions pour les enquêteurs et du matériel de départ qui s'aligne spécifiquement avec votre module. Cela peut aider à donner un niveau supplémentaire d'immersion dans la composition du groupe.
+Créer un réseau de connexions donne un point de départ aux enquêteurs les uns par rapport aux autres. C'est également très intéressant car le jeu impacte et modifie ces relations (rappelez-vous, ce système consiste à voir comment les enquêteurs changent face à ces événements, et souvent ce n'est pas pour le mieux).
 
-## COMPOSITION DU GROUPE
+## Règles Modulaires
 
-"Une équipe d'élite composée de loups solitaires, de nerds, de voleurs, de marginalisés, d'hérétiques et d'ennemis de la bureaucratie académique." - Shin Gojira 2016
+Les règles et procédures modulaires, comme celles présentées dans les annexes, peuvent être utilisées à la fois pour les campagnes et pour l'écriture d'aventures.
 
-Aller au cœur de ce qui réunit le groupe est une autre variable qui peut être ajustée pour renforcer le thème, le ton et l'installation. Parfois, c'est implicite en fonction du cadre (le centre commercial a des gens comme clients ou employés) ou c'est plus ouvert à l'interprétation (le Bureau a quelques questions qui peuvent être influencées par les expériences opérationnelles des gens), mais la sérendipité peut facilement en être la cause.
+Créer des règles à déployer pendant le jeu peut aider à renforcer des genres d'horreur spécifiques (se confronter à une sorcière, à un slasher ou à "La Chose" nécessite des nuances mécaniques différentes). La création de règles et de procédures qui renforcent spécifiquement un ton, un thème ou une séquence d'événements peut améliorer le jeu sans nuire à la table ou au récit.
 
-## QUESTIONS POUR LE GROUPE
+# Annexe A : L'entonnoir
 
-Une autre façon d'ajuster le système pour votre module est de créer une configuration unificatrice qui réunit le groupe. Vous pouvez écrire une invite unificatrice spécifique pour le scénario.
+Cet annexe détaille les règles spécifiques au mode de jeu "Entonnoir". Dans ce mode, chaque joueur contrôle plusieurs personnages souvent inexpérimentés et plus vulnérables que les enquêteurs habituels de Liminal Horror. Un aspect courant des Entonnoirs est la façon spectaculaire et mémorable dont les PJ meurent.
 
-Un exemple est d'avoir les enquêteurs ensemble pour faire une émission de radio/podcast sur la région. Ce cadre donne une unification de départ du groupe et permet un certain contexte/équipement à l'initiative. Bien que non nécessaire pour le déroulement des scénarios, fournir une option pour la composition du groupe peut être intéressant.
+## Dégâts critiques - Mort (et démembrement) dans l'Entonnoir
 
-## ENCHEVÊTREMENTS - CONNEXIONS
+Changement de règle : Lorsque les enquêteurs de l'entonnoir subissent des dégâts critiques, ils meurent. Cela est différent des règles de base où ils sont inconscients.
 
-Faire en sorte que les joueurs créent au moins un PNJ auquel ils ont un lien est une excellente façon de les plonger plus profondément dans le décor.
-
-Dans The Mall, les joueurs créent ou choisissent un PNJ avec lequel leur enquêteur a un lien. Cela donne un fil immédiat pour que le coordinateur puisse tirer dessus, construisant des enjeux et créant un engagement narratif pour les enquêteurs. (Spoiler : j'utilise souvent une des connexions PNJ comme la première victime du monstre dans The Mall, établissant ce qui est en jeu immédiatement après que les choses tournent mal.)
-
-## ENCHEVÊTREMENTS - LIENS
-
-Bien que cela soit indiqué comme optionnel dans le texte de base, pour The Mall, j'en ai fait une étape intégrée pour les joueurs. Cela commence à créer une toile de connexion et donne un point de départ pour les enquêteurs en relation les uns avec les autres. C'est aussi excellent parce que la manière dont le jeu impacte et change ces relations (rappelez-vous, l'horreur liminaire concerne la manière dont les enquêteurs changent face à ces événements, et souvent ce n'est pas pour le mieux).
-
-## RÈGLES MODULAIRES
-
-Les règles/procédures modulaires comme les annexes suivantes peuvent être utilisées à la fois dans le jeu de campagne et pour l'écriture d'aventures.
-
-Créer des règles à déployer pendant le jeu peut aider à renforcer des genres spécifiques d'horreur (affronter une sorcière vs un slasher vs The Thing ont tous des nuances mécaniques différentes). Créer des règles/procédures qui renforcent spécifiquement un ton/thème/séquence d'événements peut élever le jeu mais ne brisera pas la table ou la narration.
-
-# ANNEXE F : RÈGLES DE L'ENTONNOIR
-
-Une entonnoir est souvent un mode de jeu d'introduction où chaque joueur contrôle plusieurs PJ qui sont souvent frais, inexpérimentés et plus fragiles que les enquêteurs habituels de Liminal Horror. Un aspect commun des entonnoirs est les manières spectaculaires et mémorables dont les PJ rencontrent leur fin tragique.
-
-## DÉGÂTS CRITIQUES - MORT (ET DÉMEMBREMENT) DANS L'ENTONNOIR
-
-## STRESS CRITIQUE - DEVENIR ÉTRANGE DANS L'ENTONNOIR
-
-Changement de règle : Lorsque les enquêteurs de l'entonnoir subissent un stress critique et reçoivent une séquelle, ils se perdent, consumés par les changements étranges et abyssaux de la séquelle (ils deviennent alors un PNJ).
-
-## CRÉATION DES ENQUÊTEURS
-
-Changement de règle : Lorsque les enquêteurs de l'entonnoir subissent des dégâts critiques, ils meurent. Cela est différent des règles de base de Liminal Horror où ils sont incapacités.
-
-Mort : Lorsque des enquêteurs meurent dans un entonnoir de Liminal Horror, cela doit être graphique, grandiose et mémorable. Utilisez la narration, les capacités/motivations des monstres pour informer ce qui arrive à l'enquêteur CONDAMNÉ.
+Mort : Lorsque des enquêteurs meurent dans un entonnoir de Liminal Horror, cela doit être graphique, grandiose et mémorable. Utilisez la narration, les capacités et les motivations des monstres pour informer ce qui arrive à l'enquêteur condamné.
 
 Quelques exemples sont : perte d'un membre, coupé en deux (ou plus) morceaux, explosion, fonte, combustion, dévoré, déchiré, tranché, mutilé, écrasé, écorché.
 
-Chaque joueur crée trois enquêteurs selon les étapes suivantes :
+## Stress Critique - Devenir bizarre dans l'Entonnoir
 
-▶ Générer les scores de capacité en lançant 2d6 pour chaque capacité dans l'ordre (pour un total de 2-12 dans chaque score de capacité). Aucun résultat n'est échangé.
+Modification de règle : Lorsque les enquêteurs de l'entonnoir subissent un stress critique et reçoivent une séquelle, ils se perdent, consumés par les changements étranges et abyssaux de la séquelle (ils deviennent alors un PNJ).
 
-▶ Lancez 1d4 pour déterminer les PV de départ de chaque enquêteur.
+## Création des investigateurs
 
-▶ Lancez sur la table des antécédents ci-dessous, sauf si l'aventure a des antécédents personnalisés.
+Chaque joueur crée trois enquêteurs en suivant les étapes suivantes :
 
-▶ Optionnel : Lancez sur les tables de détails (p. 8) ou de traits (p. 9).
+1. **Caractéristiques** : Lancez 2d6 pour chaque caractéristique dans l'ordre (pour un total de 2 à 12 dans chaque caractéristique). Aucun résultat ne peut être échangé.
+2. **Lancer 1d4** pour déterminer les PP de départ de chaque enquêteur.
+3. **Tirer sur la table des historiques** ci-dessous, à moins que l'aventure n'ait des historiques personnalisés.
+4. **Facultatif** : Tirez sur les tables de traits des personnages.
+5. **Equipement de départ** : Chaque investigateur commence avec un téléphone, de l'argent (3d10 x 3d10) et deux objets de son historique.
 
-▶ Chaque enquêteur commence avec un téléphone, de l'argent (3d10 $ x 3d10 $) et deux objets de leur antécédent selon les tables suivantes.
-
-## TABLE DES ANTÉCÉDENTS
-
-| Antécédent             | Objet 1                     | Objet 2                     |
-| ---------------------- | --------------------------- | --------------------------- |
-| Journaliste            | Enregistreur audio          | Caméra                      |
-| Employé de magasin     | Briquet                     | Mini batte de baseball (d6) |
-| Détective privé        | Vieux pistolet (d6)         | Flasque                     |
-| Clerc                  | Vêtements liturgiques       | Vieux livre                 |
-| Médecin                | Scalpel (d6)                | Sac de stimulants           |
-| Académique             | Lunettes                    | Parchemin illisible         |
-| Artiste                | Carnet de croquis           | Caméra                      |
-| Athlète                | Équipement sportif (d6)     | Bandeau                     |
-| Criminel               | Crochets                    | Masque et gants             |
-| Vagabond               | Couteau à cran d'arrêt (d6) | Réchaud de voyage           |
-| Vieille richesse       | Raquette de tennis          | Antique précieux            |
-| Auteur                 | Coupe-papier (d6)           | Cigarette et briquet        |
-| Skateur                | Skateboard                  | Boombox                     |
-| Très en ligne          | Ordinateur portable         | Suiveurs en ligne           |
-| Avocat                 | Mallette (d4)               | Pile de papier à en-tête    |
-| Travailleur à la tâche | Vélo                        | Casque (+1 Armure)          |
-| Ouvrier                | Outils                      | Équipement de sécurité      |
-| Travailleur social     | Taser (cible la DEX)        | Cartes cadeaux              |
-| Financier              | Arme à feu (d6)             | Substances illégales        |
-| Hospitalité            | Mace (cible la DEX)         | Talkies-walkies             |
+| Antécédent              | Objet 1                     | Objet 2                          |
+| ----------------------- | --------------------------- | -------------------------------- |
+| Journaliste             | Enregistreur audio          | Appareil photo                   |
+| Employé de magasin      | Briquet                     | Mini batte de baseball (d6)      |
+| Détective privé         | Vieux pistolet (d6)         | Flasque                          |
+| Clerc                   | Vêtement ecclésiastique     | Vieux livre                      |
+| Médecin                 | Scalpel (d6)                | Pochette de stimulants           |
+| Universitaire           | Lunettes                    | Parchemin qu'il ne peut pas lire |
+| Artiste                 | Carnet de croquis           | Appareil photo                   |
+| Athlète                 | Équipement sportif (d6)     | Bandeau de sudation              |
+| Criminel                | Outils de crochetage        | Masque et gants                  |
+| Vagabond                | Couteau à cran d'arrêt (d6) | Réchaud de camping               |
+| Vieille fortune         | Raquette de tennis          | Antiquité coûteuse               |
+| Auteur                  | Coupe-papier (d6)           | Cigarette et briquet             |
+| Skateur                 | Skateboard                  | Ghettoblaster                    |
+| Hyperconnecté           | Ordinateur portable         | Abonnés en ligne                 |
+| Avocat                  | Mallette (d4)               | Bloc-notes                       |
+| Travailleur indépendant | Vélo                        | Casque (+1 Armure)               |
+| Artisan                 | Outils                      | Équipement de sécurité           |
+| Assistant social        | Taser (cible Dextérité)     | Cartes-cadeaux                   |
+| Finance                 | Pistolet (d6)               | Substances illégales             |
+| Hôtellerie              | Masse (cible Dextérité)     | Talkies-walkies                  |
 
 
-# ANNEXE T : PROCÉDURES DE TEMPS
+# Annex T : Gestion du temps
 
-L'annexe T : Les mesures du temps sont souvent abstraites dans les jeux, parfois au point de ne pas être explicitement mentionnées dans le texte.
+La plupart du temps, les unités de temps sont souvent abstraites, parfois même totalement absentes du texte.
 
-Avec les jeux de type enquête/mystère, il peut être important pour les joueurs d'avoir du temps entre les événements.
+Cela peut s'avérer problématique dans les jeux d'enquête ou d'investigation, où les joueurs ont besoin de ressentir le passage du temps entre les événements.
 
-Les enquêteurs sont assis dans le diner, buvant ce qui semble être la même tasse de café depuis une semaine. Elle est devenue aussi froide que la piste. Le progrès a stagné.
+Imaginez la scène : les enquêteurs sont assis au diner, buvant ce qui semble être la même tasse de café depuis une semaine. Le breuvage est devenu froid, à l'image de la piste qui s'est refroidie. L'enquête est au point mort.
 
-Parfois, les problèmes ont besoin de temps pour se développer et grandir.
+Parfois, les problèmes ont besoin de temps pour se développer et prendre de l'ampleur.
 
-Donner une échelle de temps plus large peut aider à prévenir une course folle d'événements. La variation de l'échelle de temps est importante, et toutes les séquences d'événements n'ont pas besoin d'être entassées dans une seule nuit de jeu. Parfois, le mal a besoin de se gangréner, et remplir les espaces entre les événements de normalité peut rendre l'horreur encore plus frappante.
+Établir une échelle temporelle plus large permet d'éviter d'enchaîner les événements à un rythme effréné. La variation des temporalités est importante. Inutile de condenser toute une série d'événements en une seule nuit de jeu. Parfois, le mal a besoin de couver, et le fait de remplir les espaces entre les événements par des moments de normalité peut renforcer l'impact de l'horreur.
 
-L'intégration de procédures explicites peut aider à échelonner l'action de manière à soutenir la progression.
+L'intégration de procédures explicites de gestion du temps peut aider à rythmer l'action et soutenir la progression de l'histoire.
 
-## PHASES & ACTIONS
+## Phases & Action
+
+Divisez le temps en phases distinctes, telles que Matin / Midi / Après-midi / Soir / Nuit.
+
+Limitez les enquêteurs à 1 ou 2 actions par phase. Cela permet de gérer plus facilement la procédure en généralisant la durée nécessaire à la réalisation des actions.
+
+Intégrez le passage du temps dans la narration en décrivant les routines quotidiennes des enquêteurs (en se concentrant sur ce que les enquêteurs mangent à leurs repas, etc.).
 
 Créez des phases de temps distinctes telles que Matin/Midi/Soir/Nuit.
 
-Actions : Limitez les enquêteurs à 1-2 actions par phase. Cela permet de garder la procédure gérable en généralisant la durée des actions.
+## Dézoom
 
-Renforcement par des indices dans le monde : Utilisez la narration des rituels quotidiens pour aider à cadrer le passage du temps (en se concentrant sur ce que les enquêteurs mangent à leurs repas, etc.).
+Parfois, il est utile de prendre du recul par rapport à l'action immédiate et de faire avancer le temps (quelques jours, voire des semaines). Cela permet à l'histoire de respirer et d'évoluer sans que chaque minute de la vie des enquêteurs doive être jouée à la table.
 
-Échéances : Cette structure vous permet d'influencer les rencontres en fonction de la phase de temps.
+### **Intérêt pour le coordinateur**
 
-## RECULER
+Cet éloignement permet également au coordinateur de se concentrer sur l'aspect normal de la vie qui entoure les enquêteurs, créant ainsi un contraste saisissant avec les éléments horrifiques et étranges qu'ils vont rencontrer.
 
-Reculer de l'action immédiate et avancer dans le temps (jours, voire semaines) peut aider à donner de l'espace pour que l'histoire progresse. Chaque moment de la vie des enquêteurs n'a pas besoin d'être joué à la table.
+### **Temps mort**
 
-Cela aide également le coordinateur à se concentrer sur la normalité du monde autour des enquêteurs et fournit un contraste pour le terriblement étrange.
+En fonction de la durée de l'avancement rapide, demandez à chaque joueur de détailler ce que son enquêteur a fait pendant ce temps (aller travailler, rendre visite à des amis, essayer de se ressourcer, etc.).
 
-Temps mort : Selon la mesure du temps avancé, demandez à chaque joueur de donner des détails sur ce que leur enquêteur a fait pendant cette période (est allé travailler, a rendu visite à des amis, a essayé de se soigner, etc.).
+### **Indices**
 
-Indices : Pendant ces séquences, le coordinateur a l'opportunité de faire fructifier les graines plantées plus tôt dans la session (un contact prend contact, une pièce du puzzle s'emboîte enfin, etc.)
+Durant ces séquences, le coordinateur a l'opportunité de faire germer les graines semées plus tôt dans la session (un contact se manifeste, une pièce du puzzle se met en place, etc.).
 
-## HORLOGES DU DESTIN (DOOM CLOCKS) ET FACTIONS
+## Sablier de la mort & Factions
 
-DESTIN : Ajouter des échelles de temps spécifiques à l'horloge du destin est un autre moyen d'établir l'échelle de temps pour la narration. Prolonger la période entre les tic-tacs de l'horloge du destin peut aider à déclencher des moments de recul entre les événements majeurs.
+**Sablier de la mort**
 
-Factions : Utiliser une échelle de temps plus grande peut signifier que différentes variables en jeu, en particulier les motivations des factions, ont l'espace pour interagir et se répercuter dans le monde.
+L'ajout d'échelles de temps spécifiques au sablier de la mort est un autre moyen d'établir une échelle temporelle pour le récit. Allonger le laps de temps entre les "grains" du sablier peut aider à déclencher des moments de zoom arrière entre les événements majeurs.
 
-# ANNEXE C : CONDITIONS
+**Factions**
 
-Les conditions sont des conséquences résultant de jets échoués, de rencontres avec des monstres et de choix narratifs.
+L'utilisation d'une échelle temporelle plus large signifie que différentes variables en jeu, en particulier les motivations des factions, ont l'espace nécessaire pour interagir et avoir des répercussions sur le monde.
 
-▶ La plupart peuvent être supprimées.
-▶ Chacune occupe un emplacement d'inventaire.
-▶ De nombreuses conditions ont une cause simple et directe.
+# Annexe C : Conditions
 
-De nombreux monstres ont des capacités spéciales qui causent des conditions.
+Les conditions sont des conséquences résultant de jets de dés ratés, de rencontres avec des monstres et de choix narratifs.
 
-Les règles de base de Liminal Horror comportent deux conditions : PRIVÉ et FATIGUE.
+- **Effaçables** : La plupart des conditions peuvent être éliminées.
+- **Emplacement d'inventaire** : Chaque condition occupe un emplacement d'inventaire.
+- **Causes évidentes** : De nombreuses conditions ont une cause claire et identifiable.
 
-Cette annexe fournit une utilisation plus nuancée des conditions, dérivant des instances plus spécifiques à partir du tag PRIVÉ global.
+De nombreux monstres possèdent des capacités spéciales qui infligent des conditions aux personnages.
 
-## CONDITIONS
+Le jeu de base Liminal Horror propose deux conditions principales : **épuisé** et **fatigué**.
 
-**ÉPUISÉ** - L'enquêteur reste sans repos ou échoue ; conséquence d'un effort physique.  
-**SUPPRESSION** : long repos.
+Cette annexe propose une utilisation plus nuancée des conditions, en dérivant des exemples plus spécifiques à partir de la condition générale **épuisé**.
 
-**AFFAMÉ** - L'enquêteur reste sans nourriture pendant une journée.  
-**SUPPRESSION** : manger un repas.
+**Conditions courantes**
 
-**SOIF** - L'enquêteur reste sans eau pendant une journée.  
-**SUPPRESSION** : boire des liquides.
+- **À bout de force** - L'enquêteur n'a pas pu se reposer ou a subi un échec ; conséquence d'un effort physique important. **Disparition** : Long repos.
+- **Faim** - L'enquêteur n'a pas mangé depuis un jour. **Disparition** : Manger un repas.
+- **Soif** - L'enquêteur n'a pas bu d'eau depuis un jour. **Disparition** : Boire abondamment.
+- **Effrayé** - Souvent la conséquence d'un jet de sauvegarde de CTRL raté face à une réalité terrifiante ou à une blessure métaphysique sérieuse. L'enquêteur doit réussir un jet de sauvegarde de CTRL pour s'approcher de la source de la peur. **Disparition** : Long repos et un souvenir représentant la normalité.
 
-**EFFRAYÉ** - Souvent une conséquence d'un échec de sauvegarde de CTRL face à une réalité terrifiante ou à une blessure métaphysique grave. L'enquêteur doit réussir une sauvegarde de CTRL pour s'approcher de la source.  
-**SUPPRESSION** : long repos et un souvenir qui représente la normalité.
+**Conditions graves**
 
-## CONDITIONS SÉRIEUSES
+- **Épuisé** - L'enquêteur est incapable de récupérer des PP ou des points de caractéristique. **Disparition** : Subvenir au besoin qui a causé la condition.
+- **Blessé** - Subi après un coup critique ou certaines blessures, certaines actions peuvent être plus risquées. **Disparition** : Repos complet et traitement médical.
+- **Empoisonné** - Des toxines circulent dans le corps de l'enquêteur. La DEX est réduite de d6. **Disparition** : Traitement médical, repos prolongé dans un lieu sûr, expulsion forcée de la toxine.
+- **Vidé** - Contrecoup dû à la magie ou aux incantations. **Disparition** : Repos complet.
+- **Fatigué** - Peut être causé par un état épuisé pendant plus de 24 heures ; peut également être un risque fréquent lors de combats contre l'étrange. **Disparition** : Long repos dans un lieu sûr.
 
-**PRIVÉ** - L'enquêteur est incapable de récupérer des PV ou des scores de capacité.  
-**SUPPRESSION** : remplir le besoin qui a causé la condition PRIVÉE.
-
-**BLESSE** - Reçu après des dégâts critiques ou certaines blessures, certaines actions peuvent être plus risquées.  
-**SUPPRESSION** : repos complet et traitement médical.
-
-**EMPOISONNÉ** - Les toxines circulent dans l'enquêteur. La DEX est réduite de d6.  
-**SUPPRESSION** : traitement médical, repos prolongé dans un endroit sûr, expulsion forcée de la toxine.
-
-**DRAINÉ** - Répercussions résiduelles de la magie.  
-**SUPPRESSION** : repos complet.
-
-**FATIGUE** - Peut être causée par le fait d'être privé pendant plus de 24 heures ; peut aussi être un risque commun lors de combats contre l'étrange.  
-**SUPPRESSION** : long repos dans un endroit sûr.
-
-## SYSTÈME DE CARTES D'INVENTAIRE
-
-Scannez le code QR ci-dessous pour en savoir plus sur un système de cartes d'inventaire pour Liminal Horror.
-
-Placez les objets et les conditions sur votre feuille d'enquêteur. Basé sur le système de cartes Mausritter, ce mode de jeu est un excellent moyen de visualiser ce que les enquêteurs transportent.
-
-# ANNEXE L : CHANCE | ANNEXE F : RETOURS EN ARRIÈRE
+# Annexe L : Chance & Annexe F : Flashbacks
 
 ## CHANCE
 
-La CHANCE est une statistique supplémentaire qui peut être dépensée pour modifier une sauvegarde (FOR, DEX, CTRL). La CHANCE initiale d'un joueur est lancée comme ses autres scores de capacité (3d6).
+**La chance** est une statistique supplémentaire qui peut être dépensée pour modifier un jet de sauvegarde (FOR, DEX, DIR).
 
-### DÉPENSER DE LA CHANCE
+La CHANCE est une statistique supplémentaire qui peut être dépensée pour modifier une sauvegarde (FOR, DEX, CTRL). La chance initiale d'un joueur est déterminée comme ses autres scores de capacité (3d6).
 
-Pour chaque point de CHANCE dépensé, soustrayez un du résultat de la sauvegarde. Dépenser de la CHANCE la diminue de façon permanente du montant dépensé.
+### Dépenser de la chance
 
-▶ Billy, le commis de la supérette, essaie de maintenir les portes avant fermées.  
-▶ Il a 14 en FOR et 8 en CHANCE. S'il échoue à sa sauvegarde, LA CHOSE parviendra à entrer.  
-▶ Billy fait une sauvegarde de FOR et obtient un 16 (échec).  
-▶ Billy décide que c'est important et dépense deux points de CHANCE pour faire passer le jet à 14 (réussite), mais maintenant sa CHANCE est de 6 (pour les deux points dépensés pour augmenter le jet).
+Pour chaque point de chance dépensé, soustrayez un point du jet de sauvegarde réussi. Dépenser de la chance la diminue définitivement du montant dépensé.
+
+**Exemple** : Billy, l'employé du mini-marché, tente de maintenir les portes d'entrée fermées.
+
+- Il a 14 en FOR et 8 en chance. S'il rate son jet de sauvegarde, la *chose* va se frayer un chemin à l'intérieur.
+- Billy fait un jet de sauvegarde de FOR et obtient un 16 (échec).
+- Billy décide que c'est crucial et dépense deux points de chance pour transformer son jet en un 14 (réussite), mais sa chance descend désormais à 6 (à cause des deux points dépensés pour modifier le jet).
+
+### TENTER SA CHANCE
+
+Parfois, le destin s'immisce dans la vie des simples mortels. Le coordinateur peut demander à un enquêteur de **tenter sa chance** Le joueur fait alors un jet de sauvegarde de CHANCE.
+
+- **ÉCHEC** : Si le joueur rate son jet, sa CHANCE augmente de un, mais une nouvelle complication apparaît ou la situation empire.
+- **RÉUSSITE** : Si le joueur réussit, quelque chose de positif se produit (une opportunité ou un avantage se présente), mais sa CHANCE diminue de 1.
+
+**La chance n'est jamais statique. Elle fluctue, protégeant les enquêteurs tout en s'amenuisant**
 
 ### TESTER LA CHANCE
 
@@ -1319,231 +1292,226 @@ Parfois, le destin intervient dans la vie des simples mortels. Le coordinateur p
 
 ▶ La CHANCE n'est jamais statique. Elle fluctue, gardant les enquêteurs en sécurité à mesure qu'elle diminue.
 
-## RETOURS EN ARRIÈRE
+## Flashbacks
 
-Lorsque les événements de la session sont en cours, les joueurs peuvent invoquer un retour en arrière (un par enquêteur par session) pour mettre en place une scène dans le passé qui impacte la situation actuelle.
+Lorsque les événements de la session se déroulent, les joueurs peuvent invoquer un flashback (une par enquêteur et par session) pour mettre en place une scène du passé qui a un impact sur la situation actuelle.
 
-Un retour en arrière montre souvent une préparation spéciale qui a eu lieu. Cela permet de lier directement la préparation et la planification à ce qui se passe dans le jeu (au lieu de se concentrer sur ce qui pourrait se passer pendant les phases de planification).
+**Fonctionnement**
 
-Tous les retours en arrière ne nécessitent pas un jet de dés, mais certains peuvent en nécessiter un s'il y a un risque impliqué. Cela peut simplement être un Dé du Destin pour déterminer à quel point le retour en arrière impacte le présent (1d6, avec 6 : Bon résultat / 4-5 : Résultat mitigé / 1-3 : Mauvais résultat).
+Une retrouvaille montre souvent une préparation particulière qui a eu lieu. Cela permet de lier directement la préparation et la planification à ce qui se passe pendant le jeu (plutôt que de s'attarder sur ce qui pourrait se passer pendant les phases de planification).
 
-### LIMITATIONS
+**Jets de dés**
 
-Les retours en arrière n'effacent pas la réalité de ce qui s'est passé. Ils ne sont pas des voyages dans le temps ou un bouton de "réinitialisation".
+Tous les flashbacks ne nécessitent pas de jet de dés, mais certains peuvent en demander s'il y a un risque. Il peut s'agir simplement d'un dé du destin pour déterminer l'efficacité de la retrouvaille et son impact sur le présent (1d6, avec 6 : Bon résultat / 4-5 : Résultat mitigé / 1-3 : Mauvais résultat).
+
+**Limites**
+
+Les flashbacks n'effacent pas la réalité de ce qui s'est passé. Ce ne sont ni des voyages dans le temps ni un gros bouton "recommencer".
 
 La réalité narrative est toujours bien établie.
 
-Les retours en arrière permettent aux joueurs de montrer comment leur enquêteur s'est potentiellement préparé pour une telle situation. Cela crée des opportunités uniques directement liées à ce qui se passe.
+Les flashbacks permettent de montrer aux joueurs comment leur enquêteur s'est potentiellement préparé à une telle situation. Cela crée des opportunités uniques directement liées à ce qui se passe.
 
-### EXEMPLES
+**Exemples**
 
-▶ Se procurer des dagues en argent chez un vendeur de ruelle semi-réputé.  
-▶ Charger le coffre avec des explosifs improvisés.  
-▶ Placer de la contrebande dans la cabine de toilette.
+- Se procurer des dagues en argent auprès d'un revendeur pas trop respectable d'une ruelle sombre.
+- Charger le coffre de la voiture d'explosifs.
+- Planter des preuves incriminantes dans la cabine de toilette.
 
-# ANNEXE I : TAGS DES OBJETS
+# ANNEXE I : Propriétés d'objets
 
-L'ajout de tags fournit une option modulaire pour augmenter la complexité potentielle des objets utilisés en jeu.
+L'ajout de propriétés offre une option modulaire pour augmenter la complexité potentielle des objets utilisés en jeu.
 
-Les tags peuvent être ajoutés aux objets pour modifier leur utilisation. Tous les objets n'ont pas besoin d'un tag. Les tags peuvent être ajoutés pour rendre un objet unique. Les coordinateurs ont la possibilité d'utiliser uniquement les tags [Descriptifs] et d'omettre les règles [Mécaniques] au profit de décisions prises pendant le jeu.
+Des propriétés peuvent être ajoutées aux objets pour modifier leur utilisation. Tous les objets n'ont pas besoin d'une propriété. Les propriétés peuvent être ajoutées pour rendre un objet unique.
 
-## Tags Descriptifs et Mécaniques
+Les coordinateurs ont la possibilité d'utiliser uniquement les propriétés "[Descriptives]" et d'omettre le texte des règles "[Mécaniques]" en faveur de décisions prises pendant le jeu.
 
-Les tags descriptifs agissent comme des indices narratifs pouvant être exploités dans la fiction. Ils peuvent être mis en œuvre seuls et leur utilisation peut être décidée à la table.
+## Propriétés descriptives et mécaniques
 
-Les tags mécaniques s'associent à leurs homologues [Descriptifs] pour ajouter des règles prescriptives, fournissant des implications mécaniques explicites pour une utilisation pendant le jeu.
+Les propriétés descriptives agissent comme des indices narratifs qui peuvent être exploités dans la fiction. Elles peuvent être mises en œuvre seules et leur utilisation peut se faire sous forme de décisions prises à la table.
 
-| [DESCRIPTIF]      | [MÉCANIQUE]                                                  |
-| ----------------- | ------------------------------------------------------------ |
-| **ACIDE**         | Un liquide caustique qui brûle tout ce qu'il touche. Provoque des dégâts persistants jusqu'à ce qu'il soit enlevé. |
-| **EXPLOSION**     | Une attaque qui touche tout dans une zone cible avec des dégâts roulés séparément pour chaque cible. |
-| **HÉMORRAGIE**    | Les dégâts au-delà des PV déclenchent une sauvegarde. En cas d'échec, la victime subit 1d4 dégâts à la fin de la scène. |
-| **BRUTAL**        | Les dégâts sont améliorés. Utiliser cet objet cause 1 stress à celui qui le manie. |
-| **ENCOMBRANT**    | L'objet prend deux emplacements d'inventaire et est encombrant ou nécessite deux mains. |
-| **COMPLEXE**      | Nécessite une sauvegarde de DEX réussie pour être utilisé.   |
-| **DANGEREUX**     | Les dégâts sont améliorés (d12) mais celui qui le manie doit réussir une sauvegarde ou subir les dégâts également. |
-| **DÉBILITANT**    | Les dégâts au-delà des PV sont divisés (arrondis vers le haut) entre DEX et FOR. |
-| **DÉTÉRIORATION** | Après chaque utilisation, faites une sauvegarde de CTRL. En cas d'échec, risque de casse ou de réduction de l'efficacité. |
-| **DISCRET**       | Facile à cacher. Souvent négligé.                            |
-| **ANGOISSANT**    | Utiliser cet objet cause 1 stress aux autres.                |
-| **LIMITÉ**        | A un nombre limité d'utilisations.                           |
-| **BRUYANT**       | Tout le monde dans les environs peut entendre son utilisation. |
-| **SALE**          | Crée un désordre (sang, os, viscères). Voir cela cause 1 stress. |
-| **NON LÉTAL**     | Cible la DEX après les PV.                                   |
-| **PÉRILLEUX**     | Risque de priver ceux qui le portent.                        |
-| **PERFORANT**     | Ignore l'armure et atteint directement la FOR.               |
-| **POISON**        | Les dégâts au-delà des PV déclenchent une sauvegarde. En cas d'échec, la victime subit 1d4 dégâts à la DEX à la fin de la scène. |
-| **PUISSANT**      | Les jets de dégâts utilisant cet objet sont améliorés.       |
-| **RAPIDE**        | Si utilisé, agit en premier (si la vitesse est un facteur).  |
-| **SILENCIEUX**    | Cet objet peut être utilisé sans un bruit.                   |
-| **LENT**          | Si utilisé, agit en dernier (si la vitesse est un facteur).  |
-| **SOUS-STANDARD** | Moins efficace que ses homologues normaux.                   |
-| **ÉPUISANT**      | Un échec lors de l'utilisation de cet objet cause un niveau de fatigue. |
-| **PEU FIABLE**    | Un échec lors de l'utilisation de cet objet le rend inutilisable pour le reste de la session. |
-| **INSTABLE**      | Risque d'exploser/détoner/s'activer.                         |
-| **MALADROIT**     | Difficile à déplacer rapidement, silencieusement ou dans des espaces restreints. |
+Les propriétés mécaniques s'associent à leurs homologues "descriptives" pour ajouter des règles normatives, fournissant des implications mécaniques explicites pour une utilisation pendant le jeu.
+
+| Propriété Descriptive | Propriété Mécanique                                          |
+| --------------------- | ------------------------------------------------------------ |
+| Acide                 | Liquide caustique qui brûle et inflige des dégâts persistants jusqu'à son retrait. |
+| Explosion             | Attaque qui touche tout dans une zone ciblée, avec des jets de dégâts distincts pour chaque cible touchée. |
+| Saignement            | Les dégâts dépassant les PP nécessitent un jet de sauvegarde. En cas d'échec, la victime subit 1d4 points de dégâts à la fin de la scène. |
+| Brutal                | Dégâts augmentés. L'utilisation de cet objet inflige 1 niveau de Stress au personnage qui le manie. |
+| Encombrant            | Occupe deux emplacements d'inventaire et est difficile à manier ou nécessite deux mains. |
+| Complexe              | Nécessite une réussite à un jet de sauvegarde de DEXTÉRITÉ pour être utilisé. |
+| Dangereux             | Dégâts augmentés (d12) mais le personnage qui le manie doit effectuer un jet de sauvegarde ; en cas d'échec, il subit également les dégâts. |
+| Handicapant           | Les dégâts dépassant les PP sont répartis (en arrondissant à l'entier supérieur) entre la DEXTÉRITÉ et la FORCE. |
+| Se détériore          | Après chaque utilisation, effectuez un jet de sauvegarde de CONTRÔLE. Un échec risque de casser l'objet ou de réduire son efficacité. |
+| Discret               | Facile à cacher et passe souvent inaperçu.                   |
+| Angoissant            | L'utilisation de cet objet inflige 1 niveau de Stress aux autres personnages. |
+| Limité                | Possède un nombre d'utilisations limité.                     |
+| Bruyant               | Son utilisation peut être entendue par tous ceux qui se trouvent à proximité. |
+| Sale                  | Crée un carnage (sang, os, viscères). Assister à une telle scène inflige 1 niveau de Stress. |
+| Non-létal             | Cible la DEXTÉRITÉ après les PP.                             |
+| Périlleux             | Risque de rendre épuisé le personnage qui le transporte.     |
+| Perforant             | Ignore l'armure.                                             |
+| Poison                | Les dégâts dépassant les PP nécessitent un jet de sauvegarde. En cas d'échec, la victime subit 1d4 points de dégâts de DEXTÉRITÉ à la fin de la scène. |
+| Puissant              | Les jets de dégâts effectués avec cet objet sont augmentés.  |
+| Rapide                | Donne la priorité d'action si la vitesse est un facteur important. |
+| Silencieux            | Peut être utilisé sans bruit.                                |
+| Lent                  | Retarde l'action du personnage si la vitesse est un facteur important. |
+| Médiocre              | Moins efficace que ses équivalents standards.                |
+| Épuisant              | Un échec lors de l'utilisation de cet objet inflige une fatigue. |
+| Peu fiable            | Un échec lors de l'utilisation de cet objet le rend inutilisable pour le reste de la session. |
+| Instable              | Risque d'exploser/détoner/se déclencher.                     |
+| Difficile à manier    | Difficile à déplacer rapidement, silencieusement ou dans des espaces restreints. |
 
 
-# ANNEXE V : VÉHICULES ÉTENDUS
+# Annexe V : Véhicules détaillés
 
-## PV
+## PP
 
-Les véhicules ont des PV. Lorsque les PV atteignent 0, le véhicule est détruit. La destruction d'un véhicule cause des dégâts à ceux qui sont à l'intérieur et autour.
+Les véhicules ont des PP. Lorsque les PP atteignent 0, le véhicule est détruit. La destruction d'un véhicule cause des dommages aux personnes se trouvant à l'intérieur et autour de lui.
 
-## DÉGÂTS CAUSÉS PAR LES VÉHICULES
+## **Dégâts causés par des véhicules**
 
-Les dégâts des véhicules sont relatifs à la cible et à sa vitesse. Commencez à d6 et ajustez à la hausse ou à la baisse selon la fiction/les variables (taille, vitesse, autres aspects physiques).
+Les dégâts causés par un véhicule sont proportionnels à la cible et à sa vitesse. Commencez par un d6 et augmentez ou diminuez en fonction de la fiction/des variables (taille, vitesse, autres aspects physiques).
 
-## ENFONCEMENT
+## Bélier
 
-Enfoncer un véhicule cause des dégâts aux deux objets qui entrent en collision. S'il y a une disparité de taille, les dégâts du plus petit véhicule sont diminués (d4). Les cibles molles (comme les personnes en chair) ne causent pas de dégâts aux véhicules.
+Le bélier cause des dommages aux deux objets qui entrent en collision. En cas de différence de taille, les dégâts du plus petit véhicule sont réduits (d4). Les cibles molles (comme les humains) n'endommagent pas les véhicules.
 
-## PUIS-JE ENDOMMAGER LES MONSTRES AVEC UN VÉHICULE ?
+## Puis-je endommager des monstres avec un véhicule ?
 
-Réponse courte : Oui.
+**Réponse courte :** Oui.
 
-Réponse plus nuancée : Cela dépend de la fiction. La seule façon de le savoir avec certitude est d'essayer.
+**Réponse plus nuancée :** Cela dépend de la situation. La seule façon d'en être sûr est d'essayer.
 
-## SCÈNES DE POURSUITE
+## Courses-poursuites
 
 ### COMPLICATIONS
 
-Lorsque les joueurs sont engagés dans des actions à grande vitesse en véhicule, ils ne doivent lancer les dés que si l'échec est intéressant. Voici une table des complications potentielles qui peuvent survenir lors de la conduite à grande vitesse. Faites allusion à celles-ci avant un jet de dés. Parfois, les joueurs peuvent éviter intelligemment un danger tout en restant exposés à d'autres.
+**Complications**
 
-▶ Danger environnemental (voiture en panne, barrières, travaux)  
-▶ Piéton (personnes dans la rue, sur le trottoir, cibles molles vs corps durs)  
-▶ Trafic (les voitures lentes sont l'antithèse des poursuites rapides)  
-▶ Problèmes de voiture (feux, rétroviseurs, pneus, freins, direction, voyants d'alerte)  
-▶ Citoyens concernés (photos, vidéos prises/postées, appel à la police, les gens égalent l'exposition)  
-▶ Endommager ou détruire des biens (voitures garées, chariots, meubles, magasins, bâtiments, tout ce qui se trouve en ville).  
-Remarque : Certaines complications peuvent se cumuler, devenant de plus grands obstacles et entravant le progrès.
+Lorsque les joueurs sont engagés dans des poursuites en véhicule à grande vitesse, ils ne devraient lancer de dés que si l'échec est intéressant. Voici un tableau des complications potentielles qui peuvent survenir en conduisant vite. Faites allusion à ces dangers avant de lancer les dés. Parfois, les joueurs peuvent éviter intelligemment un danger tout en restant exposés à d'autres.
 
-### PROCÉDURALISER LES POURSUITES EN VOITURE
+- Obstacle environnemental (voiture en panne, barrières, travaux)
+- Piéton (personnes dans la rue, sur le trottoir, cibles molles vs. corps solides)
+- Trafic (les voitures lentes sont l'antithèse des courses-poursuites rapides)
+- Pannes de voiture (phares, rétroviseurs, pneus, freins, direction, voyants du tableau de bord)
+- Citoyens inquiets (photos, vidéos prises/publiées, appels à la police, exposition du public)
+- Dégâts ou destruction de biens (voitures en stationnement, chariots, mobilier, magasins, bâtiments, tout ce que l'on trouve en ville)
 
-Vous ne pouvez pas affronter l'étrange sans scènes de poursuite. Parfois, vous échappez à la loi/cultistes, d'autres fois, vous courez contre la montre pour sauver quelqu'un, parfois, c'est juste que vous êtes poursuivi par quelque chose de surnaturel. Au détriment des enquêteurs, c'est souvent une combinaison de ces choses.
+**Remarque :** Certaines complications peuvent s'accumuler, devenant des obstacles plus importants et ralentissant la progression.
 
-Si vous souhaitez un système pour renforcer la tension, utilisez une simple horloge pour montrer à quel point le groupe est proche de l'objectif. Réglez-la sur 4, avec des succès remplissant une section et des échecs introduisant une complication et/ou effaçant une section de l'horloge.
+### Formalisation des courses-poursuites
 
-Lorsque les quatre sections sont remplies, les joueurs atteignent leur objectif. Les conducteurs peuvent choisir de faire d'autres actions (enfoncer, surmonter une complication, une manœuvre astucieuse) au lieu d'essayer d'ajouter à l'horloge.
+On ne peut pas affronter l'étrange sans courses-poursuites. Parfois, vous devez semer la police ou des sectes, d'autres fois vous devez foncer contre la montre pour sauver quelqu'un, et parfois vous êtes simplement poursuivi par quelque chose qui ne relève pas de ce monde. Au grand dam des enquêteurs, c'est souvent une combinaison de ces situations.
 
-# FACTION - LE BUREAU
+Si vous voulez un système pour renforcer la tension, utilisez un simple chrono pour montrer à quel point le groupe est proche de son objectif. Réglez-le sur 4, les réussites remplissent une section et les échecs introduisent une complication et/ou effacent une section du chrono.
 
-## LE BUREAU
+Lorsque les quatre sections sont remplies, les joueurs atteignent leur objectif. Les conducteurs peuvent choisir d'effectuer d'autres actions (bélier, surmonter une complication, une manœuvre astucieuse) au lieu de tenter de remplir le chrono.
 
-Le Bureau est une organisation gouvernementale chargée de contrôler le paranaturel.
+# Faction - Le bureau
 
-## ACTIONS
+## Le Bureau
 
-Contenir et contrôler toutes les menaces paranaturelles. Les saignements dimensionnels, les anomalies planaires, les incursions mathématiques non euclidiennes, les monstres et la "magie" relèvent tous du domaine opérationnel du Bureau.
+Le Bureau est une organisation gouvernementale chargée de contrôler le paranormal.
 
-Étant donné leur mandat non orthodoxe et étendu, et un budget d'opérations de [censuré], ils peuvent appliquer l'ampleur et l'échelle que le Directeur [censuré] juge nécessaires.
+## Actions
 
-Leur directive principale (depuis 19xx) est de sauvegarder, contrôler l'accès à, et protéger toutes les informations liées au paranaturel. Cet objectif prime sur les droits communs des citoyens ordinaires.
+**Confinement et contrôle de toutes les menaces paranormales.** Les fuites dimensionnelles, les anomalies planaires, les incursions mathématiques non euclidiennes, les monstres et la "magie" relèvent toutes du domaine opérationnel du Bureau.
 
-## BASE
+Étant donné leur champ d'action large et peu orthodoxe, et un budget d'opérations de [censuré], ils peuvent déployer l'ampleur et les moyens jugés nécessaires par le Directeur [censuré].
 
-Le quartier général principal du Bureau est le Monolithe (voir p. 8 du Manuel d'Opération du Bureau pour des détails non censurés).
+**Leur directive principale (depuis 19xx) est de sauvegarder, de contrôler l'accès et de protéger toutes les informations liées au paranormal.** Cet objectif prime sur les droits communs des citoyens ordinaires.
 
-Le Bureau maintient souvent des bureaux satellites, des sites noirs et des postes d'opérations. Compte tenu des pouvoirs étendus accordés par la Privacy Act de 1974 (Pub.L. 93-579, 88 1974, 5 U.S.C 552a), le Bureau est autorisé à réquisitionner les ressources de la police locale si nécessaire.
+## Base
 
-## MÉTHODES
+**Le siège principal du Bureau est le Monolithe** (voir p. 8 du Bureau : Manuel d'opération pour les détails non censurés).
 
-Un budget et une portée étendus permettent une large gamme de méthodologies : opérations psychologiques, contre-espionnage, extraction, extermination, tests sur le terrain, confinement, liquidation, prises de contrôle hostiles, [censuré], [censuré], [censuré], [censuré], [censuré].
+**Le Bureau dispose également de bureaux satellites, de sites noirs et d'avant-postes opérationnels.** Étant donné les pouvoirs étendus accordés par le Privacy Act de 1974 (Pub.L. 93-579, 88 1974, 5 U.S.C 552a), le Bureau est autorisé à réquisitionner les ressources de la police locale si nécessaire.
 
-## STRUCTURE ORGANISATIONNELLE
+## Méthodes
 
-▶	Administration  
-- Ressources humaines  
-▶	Maintenance  
-▶	Soutien  
-▶	Analyse  
-▶	Recherche et Développement  
-▶	Opérations  
-- Récupération d'actifs  
-- Opératives de terrain  
-- Contention  
-- Plongeurs  
+**Un budget et une liberté d'action étendus permettent un large éventail de méthodes.** Opérations psychologiques, contre-espionnage, extraction, extermination, tests de terrain, confinement, liquidation, prises de contrôle hostiles, [censuré], [censuré], [censuré], [censuré], [censuré].
 
-## PREUVES D'IMPLICATION
+## Structure organisationnelle
 
-▶ INCIDENT DE COLDWATER LAKE (The Bloom)  
-▶ Incursion de l'Ombre (The Bureau)  
-▶ Incursion d'Ammon (The Mall)  
-▶ Plaie des Grenouilles (LH Legacy Edition)  
-▶ Opération Shelterwood (One Night at the Shelterwood Inn)  
+- Administration
+  - Ressources humaines
+- Maintenance
+- Soutien
+- Analyse
+- Recherche et développement
+- Opérations
+  - Récupération d'actifs
+  - Agents de terrain
+  - Confinement
+  - Divers
 
-## UTILISER LE BUREAU DANS VOTRE JEU
+## Utiliser le bureau dans votre jeu
 
-Souvent dans les médias d'horreur/paranormaux, il existe des organisations gouvernementales occultes impliquées d'une manière ou d'une autre. Elles entrent soit directement en conflit avec les enquêteurs et les événements de l'histoire, soit elles attendent en coulisses pour influencer négativement les événements.
+**Dans les médias d'horreur/paranormal, des organisations gouvernementales opaques sont souvent impliquées d'une manière ou d'une autre.** Elles entrent directement en conflit avec les enquêteurs et les événements de l'histoire, ou attendent en coulisses pour influencer négativement les événements.
 
-Avoir une telle faction peut introduire une autre variable et un antagoniste tangent à l'étrange. Les humains impliqués peuvent être des alliés temporaires, mais leur présence crée une nouvelle complication puisque leurs objectifs d'extermination et de confinement sont souvent en contradiction avec la survie continue des enquêteurs.
+**Une telle faction peut introduire une variable supplémentaire et un antagoniste qui est tangentiel à l'étrange.** Les humains impliqués peuvent être des alliés temporaires, mais leur présence crée une nouvelle complication puisque leurs motivations d'extermination et de confinement sont souvent en contradiction avec la survie des enquêteurs.
 
 
-# RÉSUMÉ DES RÈGLES
+# Résumé des règles
 
-## CAPACITÉS (p. 14)
+## Caractéristiques
 
-- **FOR** : Physicalité et endurance
-- **DEX** : Subtilité et précision
-- **CTRL** : Étrange et émotion
+- **FOR (Force)** : Représente la force physique et l'endurance.
+- **DEX (Dextérité)** : Représente la subtilité et la précision.
+- **CTRL (Contrôle)** : Représente la connexion à l'étrange et la gestion des émotions.
 
-## SAUVEGARDES (p. 14)
+## Sauvegardes
 
-Pour les actions risquées, lancez un d20 égal ou inférieur au score de capacité cible.
+Lors d'actions risquées, lancez un d20 et obtenez un résultat égal ou inférieur à la valeur de la caractéristique cible.
 
-## PROTECTION CONTRE LES COUPS - PV (p. 14)
+## Points de protection
 
-La capacité d'un enquêteur à éviter les blessures graves (physiques et stress).
+Représentent la capacité d'un Investigateur à éviter les blessures graves (physiques et mentales).
 
-## ARMURE ET STABILITÉ (p. 15)
+## Armure et Stabilité
 
-L'armure réduit les dégâts entrants de ce montant. La stabilité réduit le stress entrant de ce montant.
+- L'armure réduit les dégâts subis.
+- La stabilité réduit le stress subi.
 
-## INVENTAIRE (p. 14)
+## Inventaire
 
-Les enquêteurs ont 10 emplacements d'inventaire. La plupart des objets occupent un emplacement, les objets encombrants en occupent deux. Porter des objets au-delà de 10 emplacements réduit les PV à 0.
+Les enquêteurs disposent de 10 emplacements d'inventaire. La plupart des objets occupent un emplacement, les objets encombrants en prennent deux. Porter plus de 10 objets réduit les PP à 0.
 
-## PRIVÉ ET FATIGUE (p. 14)
+## Épuisement et fatigue
 
-La condition Privé provient d'un manque de besoin critique (nourriture, sommeil, etc.) et empêche la récupération des PV. Être Privé pendant 24 heures ajoute une condition Fatigue à un emplacement d'inventaire et nécessite du repos pour récupérer.
+L'épuisement résulte d'un manque de besoins essentiels (nourriture, sommeil, etc.) et empêche la récupération des PP.
 
-## STABILITÉ DU TÉLÉPHONE PORTABLE (p. 15)
+Être épuisé pendant 24 heures ajoute une fatigue à un emplacement d'inventaire et nécessite du repos pour récupérer.
 
-Lorsqu'un enquêteur utilise un téléphone portable, une caméra portable, une CCTV, etc. pour voir une horreur, il reçoit +1 en stabilité. Si le stress dépasse la stabilité, lancez sur la table (p. 15).
+## Stabilité du téléphone portable
 
-## ARTEFACTS RÉSONANTS (p. 24)
+Lorsqu'un enquêteur utilise un téléphone portable, un appareil photo portable, une vidéosurveillance, etc. pour observer l'horreur, il reçoit +1 en Stabilité. Si le stress dépasse la Stabilité, lancez un dé sur la table des Séquelles.
 
-Les artefacts résonants sont des objets imprégnés de l'étrange. Un enquêteur peut utiliser le pouvoir d'un artefact résonant dans le cadre de son action normale, à condition que le déclencheur d'activation puisse être complété en quelques secondes.
+## Artéfacts
 
-## ACTIONS (p. 16)
+Les artéfacts sont des objets imprégnés de l'étrange. Un enquêteur peut utiliser le pouvoir d'un artéfact dans le cadre de son action normale, à condition que le déclencheur d'activation puisse être activé en quelques secondes.
 
-À leur tour, les enquêteurs peuvent se déplacer de 40 pieds et effectuer une seule action. Les actions sont attaquer, se déplacer davantage ou effectuer une autre action raisonnable. Ces actions sont simultanées.
+## Actions
 
-Se retirer d'une situation désespérée nécessite une sauvegarde de DEX réussie et une destination sûre.
+À leur tour, les enquêteurs peuvent se déplacer de 12 mètres et effectuer une action unique. Les actions possibles sont attaquer, se déplacer davantage ou effectuer une autre action raisonnable. Ces actions se déroulent simultanément.
 
-Pour le tour de début de combat, les enquêteurs doivent réussir une sauvegarde de DEX pour agir. Les tours suivants voient les enquêteurs agir, puis les adversaires.
+La retraite d'une situation désespérée nécessite une réussite au jet de sauvegarde de DEXTÉRITÉ et un endroit sûr.
 
-## COMBAT (p. 16)
+Au début du premier tour de combat, les enquêteurs doivent réussir un jet de sauvegarde de DEXTÉRITÉ pour agir. Les tours suivants se déroulent avec les enquêteurs agissant en premier, puis les adversaires.
 
-Toutes les attaques touchent automatiquement dans des circonstances raisonnables. Les attaquants lancent les dés de dégâts ou de stress, soustraient l'armure (dégâts) ou la stabilité (stress), et infligent le total restant aux PV de la cible. Plusieurs attaquants lancent ensemble et conservent le dé le plus élevé.
+## Combat
 
-## DÉGÂTS ET BLESSURES (p. 18)
+Dans des circonstances raisonnables, toutes les attaques touchent automatiquement. Les attaquants lancent le dé de dégâts ou de stress, soustraient l'armure (dégâts) ou la stabilité (stress) et infligent le total restant aux PP de la cible. Plusieurs attaquants qui attaquent une même cible lancent ensemble et conservent le plus haut résultat.
 
-Les dégâts qui dépassent les PV sont déduits de la FOR. La cible doit réussir une sauvegarde de FOR ou subir une blessure, qui remplit les emplacements d'inventaire.
+## Dégâts et blessures
 
-## STRESS ET SÉQUELLES (p. 20)
+Les dégâts qui dépassent les PP sont soustraits de la FOR. La cible doit réussir un jet de sauvegarde de FOR ou subir une blessure, qui occupe des emplacements d'inventaire.
 
-Le stress qui dépasse les PV est déduit de la CTRL. La cible doit réussir une sauvegarde de CTRL ou subir une séquelle, qui remplit les emplacements d'inventaire.
+## Stress et séquelles
 
-## GUÉRISON (p. 18)
+Le stress qui dépasse les PP est soustrait du CTRL. La cible doit réussir un jet de sauvegarde de CTRL ou subir une séquelle, qui occupe des emplacements d'inventaire.
 
-Un court repos dans un endroit sûr restaure complètement les PV. La perte de capacité nécessite des soins médicaux ou un repos prolongé. 0 en FOR signifie la mort, 0 en DEX signifie la paralysie, 0 en CTRL signifie que l'enquêteur est perdu.
+## Soins
 
-
-# "Qui survivra et que restera-t-il d'eux ?"
-
-The Texas Chainsaw Massacre (1974)
-
-LIMINAL HORROR est un jeu de rôle d'horreur moderne, adaptable et léger en règles, qui raconte l'histoire de personnes normales et de leurs luttes contre les choses qui rôdent dans la nuit. Le jeu se concentre sur l'investigation, mélangeant des règles simples et inspirées de l'ancienne école avec des principes modernes axés sur la narration, où la survie n'est pas garantie, et ceux qui survivent sont souvent changés à jamais.
-
-Recommandé pour les fans de Junji Ito, John Carpenter, Silent Hill, Resident Evil, Call of Cthulhu, Monster of the Week et Silent Legions. Il s'agit d'un hack d'horreur moderne de Cairn de Yochai Gal.
+Un court repos dans un endroit sûr restaure complètement les PP. La perte de capacité nécessite des soins médicaux ou un repos prolongé. Un score de FOR à 0 signifie la mort, un score de DEX à 0 signifie la paralysie et un score de CTRL à 0 signifie que l'enquêteur est perdu.
